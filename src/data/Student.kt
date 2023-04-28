@@ -15,3 +15,10 @@ fun Student?.sayHello(name: String) {
         println("Hello $name, my name is ${this.name} and my age is ${this.age}")
     }
 }
+
+/**
+ * Selain function, kita juga bisa membuat extension untuk properties di Kotlin
+ * Untuk membuat extension properties, kita bisa membuat properties dengan Getter atau Setter
+ */
+val Student.upperName: String
+    get() = this.name.toUpperCase()
