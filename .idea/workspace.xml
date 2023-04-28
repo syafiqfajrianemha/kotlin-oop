@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00542276-fc37-4c8b-a953-7e41a7e0f66d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/app/SingletonObject.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data/Application.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data/Utilities.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/belajar-kotlin-oop/META-INF/belajar-kotlin-oop.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/belajar-kotlin-oop/META-INF/belajar-kotlin-oop.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/belajar-kotlin-oop/data/Gender.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/belajar-kotlin-oop/data/Gender.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/SingletonObject.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/SingletonObject.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data/Application.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/Application.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,22 +137,22 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="271" y="235" key="#com.intellij.ide.util.MemberChooser/1920.0.1280.688/0.0.1920.1032@0.0.1920.1032" timestamp="1682409746475" />
-    <state width="914" height="279" key="GridCell.Tab.0.bottom" timestamp="1682723066625">
+    <state width="914" height="279" key="GridCell.Tab.0.bottom" timestamp="1682723662866">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="914" height="279" key="GridCell.Tab.0.bottom/1920.0.1280.688/0.0.1920.1032@0.0.1920.1032" timestamp="1682723066625" />
-    <state width="914" height="279" key="GridCell.Tab.0.center" timestamp="1682723066625">
+    <state width="914" height="279" key="GridCell.Tab.0.bottom/1920.0.1280.688/0.0.1920.1032@0.0.1920.1032" timestamp="1682723662866" />
+    <state width="914" height="279" key="GridCell.Tab.0.center" timestamp="1682723662865">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="914" height="279" key="GridCell.Tab.0.center/1920.0.1280.688/0.0.1920.1032@0.0.1920.1032" timestamp="1682723066625" />
-    <state width="914" height="279" key="GridCell.Tab.0.left" timestamp="1682723066624">
+    <state width="914" height="279" key="GridCell.Tab.0.center/1920.0.1280.688/0.0.1920.1032@0.0.1920.1032" timestamp="1682723662865" />
+    <state width="914" height="279" key="GridCell.Tab.0.left" timestamp="1682723662865">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="914" height="279" key="GridCell.Tab.0.left/1920.0.1280.688/0.0.1920.1032@0.0.1920.1032" timestamp="1682723066624" />
-    <state width="914" height="279" key="GridCell.Tab.0.right" timestamp="1682723066625">
+    <state width="914" height="279" key="GridCell.Tab.0.left/1920.0.1280.688/0.0.1920.1032@0.0.1920.1032" timestamp="1682723662865" />
+    <state width="914" height="279" key="GridCell.Tab.0.right" timestamp="1682723662866">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="914" height="279" key="GridCell.Tab.0.right/1920.0.1280.688/0.0.1920.1032@0.0.1920.1032" timestamp="1682723066625" />
+    <state width="914" height="279" key="GridCell.Tab.0.right/1920.0.1280.688/0.0.1920.1032@0.0.1920.1032" timestamp="1682723662866" />
     <state width="914" height="344" key="GridCell.Tab.1.bottom" timestamp="1682417394770">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>

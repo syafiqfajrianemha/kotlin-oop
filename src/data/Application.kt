@@ -10,4 +10,14 @@ class Application(val name: String) {
             println("Hello $name")
         }
     }
+
+    /**
+     * Companion object adalah kemampuan membuat inner object di dalam class, tanpa harus menggunakan nama object
+     * Companion object secara otomatis akan menggunakan nama Companion, atau bisa langsung diakses lewat nama class nya
+     */
+    companion object {
+        fun toUpper(name: String) {
+            println(name.toUpperCase())
+        }
+    }
 }

@@ -10,6 +10,10 @@ fun main() {
     b()
 
     Application.Util.hello("Syafiq")
+
+    Application.Companion.toUpper("Fajrian")
+    // keuntungan menggunkan companion kita bisa langsung memanggil function nya
+    Application.toUpper("Emha")
 }
 
 fun a() {
