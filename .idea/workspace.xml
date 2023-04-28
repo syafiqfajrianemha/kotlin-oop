@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00542276-fc37-4c8b-a953-7e41a7e0f66d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/app/DataClass.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/Product.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/ExtensionFunction.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/ExtensionFunction.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data/Student.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/Student.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/belajar-kotlin-oop/META-INF/belajar-kotlin-oop.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/belajar-kotlin-oop/META-INF/belajar-kotlin-oop.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/belajar-kotlin-oop/data/StudentKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/belajar-kotlin-oop/data/StudentKt.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +41,20 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Kotlin.app.ExtensionFunctionKt">
+  <component name="RunManager" selected="Kotlin.app.DataClassKt">
+    <configuration name="app.DataClassKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="belajar-kotlin-oop" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="app.DataClassKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="app.ExtensionFunctionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="belajar-kotlin-oop" />
       <option name="VM_PARAMETERS" />
@@ -48,19 +63,6 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="app.ExtensionFunctionKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="app.GetterSetterKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="belajar-kotlin-oop" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="app.GetterSetterKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -107,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.app.DataClassKt" />
         <item itemvalue="Kotlin.app.ExtensionFunctionKt" />
         <item itemvalue="Kotlin.app.VisibilityModifiersKt" />
         <item itemvalue="Kotlin.app.InterfaceKt" />
         <item itemvalue="Kotlin.app.LateInitPropertiesKt" />
-        <item itemvalue="Kotlin.app.GetterSetterKt" />
       </list>
     </recent_temporary>
   </component>
@@ -136,22 +138,22 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="271" y="235" key="#com.intellij.ide.util.MemberChooser/1920.0.1280.688/0.0.1920.1032@0.0.1920.1032" timestamp="1682409746475" />
-    <state width="914" height="279" key="GridCell.Tab.0.bottom" timestamp="1682719039977">
+    <state width="914" height="279" key="GridCell.Tab.0.bottom" timestamp="1682719699754">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="914" height="279" key="GridCell.Tab.0.bottom/1920.0.1280.688/0.0.1920.1032@0.0.1920.1032" timestamp="1682719039977" />
-    <state width="914" height="279" key="GridCell.Tab.0.center" timestamp="1682719039977">
+    <state width="914" height="279" key="GridCell.Tab.0.bottom/1920.0.1280.688/0.0.1920.1032@0.0.1920.1032" timestamp="1682719699754" />
+    <state width="914" height="279" key="GridCell.Tab.0.center" timestamp="1682719699754">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="914" height="279" key="GridCell.Tab.0.center/1920.0.1280.688/0.0.1920.1032@0.0.1920.1032" timestamp="1682719039977" />
-    <state width="914" height="279" key="GridCell.Tab.0.left" timestamp="1682719039977">
+    <state width="914" height="279" key="GridCell.Tab.0.center/1920.0.1280.688/0.0.1920.1032@0.0.1920.1032" timestamp="1682719699754" />
+    <state width="914" height="279" key="GridCell.Tab.0.left" timestamp="1682719699754">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="914" height="279" key="GridCell.Tab.0.left/1920.0.1280.688/0.0.1920.1032@0.0.1920.1032" timestamp="1682719039977" />
-    <state width="914" height="279" key="GridCell.Tab.0.right" timestamp="1682719039977">
+    <state width="914" height="279" key="GridCell.Tab.0.left/1920.0.1280.688/0.0.1920.1032@0.0.1920.1032" timestamp="1682719699754" />
+    <state width="914" height="279" key="GridCell.Tab.0.right" timestamp="1682719699754">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="914" height="279" key="GridCell.Tab.0.right/1920.0.1280.688/0.0.1920.1032@0.0.1920.1032" timestamp="1682719039977" />
+    <state width="914" height="279" key="GridCell.Tab.0.right/1920.0.1280.688/0.0.1920.1032@0.0.1920.1032" timestamp="1682719699754" />
     <state width="914" height="344" key="GridCell.Tab.1.bottom" timestamp="1682417394770">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
