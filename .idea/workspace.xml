@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00542276-fc37-4c8b-a953-7e41a7e0f66d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/annotations/Fancy.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/Annotaion.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/program/MyApplication.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/annotations/Beta.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
