@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00542276-fc37-4c8b-a953-7e41a7e0f66d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/annotations/Beta.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/annotations/NotBlank.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/CreateProductRequest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/Reflaction.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,8 +17,8 @@
       <list>
         <option value="Kotlin Interface" />
         <option value="Kotlin Object" />
-        <option value="Kotlin Class" />
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -39,7 +41,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Kotlin.app.AnnotaionKt">
+  <component name="RunManager" selected="Kotlin.app.ReflactionKt">
     <configuration name="app.AnnotaionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="belajar-kotlin-oop" />
       <option name="VM_PARAMETERS" />
@@ -48,19 +50,6 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="app.AnnotaionKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="app.DestructuringDeclarationKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="belajar-kotlin-oop" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="app.DestructuringDeclarationKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -105,13 +94,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="app.ReflactionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="belajar-kotlin-oop" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="app.ReflactionKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.app.ReflactionKt" />
         <item itemvalue="Kotlin.app.AnnotaionKt" />
         <item itemvalue="Kotlin.app.ExceptionKt" />
         <item itemvalue="Kotlin.app.NullSafetyKt" />
         <item itemvalue="Kotlin.app.OperatorOverloadingKt" />
-        <item itemvalue="Kotlin.app.DestructuringDeclarationKt" />
       </list>
     </recent_temporary>
   </component>
@@ -136,22 +138,22 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="271" y="235" key="#com.intellij.ide.util.MemberChooser/1920.0.1280.688/0.0.1920.1032@0.0.1920.1032" timestamp="1682409746475" />
-    <state width="914" height="279" key="GridCell.Tab.0.bottom" timestamp="1682930825263">
+    <state width="914" height="279" key="GridCell.Tab.0.bottom" timestamp="1682933232535">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="914" height="279" key="GridCell.Tab.0.bottom/1920.0.1280.688/0.0.1920.1032@0.0.1920.1032" timestamp="1682930825263" />
-    <state width="914" height="279" key="GridCell.Tab.0.center" timestamp="1682930825263">
+    <state width="914" height="279" key="GridCell.Tab.0.bottom/1920.0.1280.688/0.0.1920.1032@0.0.1920.1032" timestamp="1682933232535" />
+    <state width="914" height="279" key="GridCell.Tab.0.center" timestamp="1682933232535">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="914" height="279" key="GridCell.Tab.0.center/1920.0.1280.688/0.0.1920.1032@0.0.1920.1032" timestamp="1682930825263" />
-    <state width="914" height="279" key="GridCell.Tab.0.left" timestamp="1682930825263">
+    <state width="914" height="279" key="GridCell.Tab.0.center/1920.0.1280.688/0.0.1920.1032@0.0.1920.1032" timestamp="1682933232535" />
+    <state width="914" height="279" key="GridCell.Tab.0.left" timestamp="1682933232534">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="914" height="279" key="GridCell.Tab.0.left/1920.0.1280.688/0.0.1920.1032@0.0.1920.1032" timestamp="1682930825263" />
-    <state width="914" height="279" key="GridCell.Tab.0.right" timestamp="1682930825263">
+    <state width="914" height="279" key="GridCell.Tab.0.left/1920.0.1280.688/0.0.1920.1032@0.0.1920.1032" timestamp="1682933232534" />
+    <state width="914" height="279" key="GridCell.Tab.0.right" timestamp="1682933232535">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="914" height="279" key="GridCell.Tab.0.right/1920.0.1280.688/0.0.1920.1032@0.0.1920.1032" timestamp="1682930825263" />
+    <state width="914" height="279" key="GridCell.Tab.0.right/1920.0.1280.688/0.0.1920.1032@0.0.1920.1032" timestamp="1682933232535" />
     <state width="914" height="344" key="GridCell.Tab.1.bottom" timestamp="1682417394770">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
